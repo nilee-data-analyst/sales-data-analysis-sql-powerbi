@@ -1,5 +1,12 @@
 # 📊 Sales & Customer Analytics Project
 
+This repository contains the Olist e-commerce dataset used for data analysis.
+
+⚠️ Note: The dataset is large and cannot be previewed properly on GitHub.
+
+## Dataset
+Located in: /dataset
+
 ---
 
 ## 🎯 Objective
