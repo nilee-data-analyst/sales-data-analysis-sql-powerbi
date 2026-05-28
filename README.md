@@ -1,15 +1,18 @@
 📊 Sales & Customer Analytics Project
+
 🎯 Objective
 
 Analyze e-commerce sales performance and customer behavior using the Olist dataset to uncover trends and generate business insights.
 
 🛠 Tools Used
+
 Power BI
 SQL
 Excel
 DAX
 
 📊 Key Analysis
+
 Monthly revenue trends and seasonality
 Product category performance
 Customer purchasing and retention behavior
