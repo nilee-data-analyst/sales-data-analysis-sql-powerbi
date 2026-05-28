@@ -6,8 +6,11 @@ Analyze e-commerce sales performance and customer behavior using the Olist datas
 ##Tools Used
 
 Power BI
+
 SQL
+
 Excel
+
 DAX
 
 
