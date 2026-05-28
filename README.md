@@ -46,4 +46,8 @@ Analyze e-commerce sales performance and customer behavior using the Olist datas
 - Bed Bath & Table category generates the highest revenue among all categories  
 - Customer retention rate is low (~3%), highlighting opportunity for improvement  
 - Credit cards dominate as the primary payment method  
-- Sales decline observed toward year-end, indicating possible seasonal slowdown  
+- Sales decline observed toward year-end, indicating possible seasonal slowdown
+
+## 🔗 Links
+https://github.com/nilee-data-analyst/sales-data-analysis-sql-powerbi
+https://www.linkedin.com/in/nilee-bhavsar21/
