@@ -49,5 +49,6 @@ Analyze e-commerce sales performance and customer behavior using the Olist datas
 - Sales decline observed toward year-end, indicating possible seasonal slowdown
 
 ## 🔗 Links
-https://github.com/nilee-data-analyst/sales-data-analysis-sql-powerbi
-https://www.linkedin.com/in/nilee-bhavsar21/
+GitHub: https://github.com/nilee-data-analyst/sales-data-analysis-sql-powerbi
+
+LinkedIn: https://www.linkedin.com/in/nilee-bhavsar21/
